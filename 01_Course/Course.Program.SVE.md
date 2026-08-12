@@ -1,10 +1,11 @@
 # Course.Program.SVE
 
-**Current version:** 0.3  
-**Canonical content:** `Course.Program.SVE.v0.3.md`  
+**Current version:** 0.4  
+**Canonical content:** `Course.Program.SVE.v0.4.md`  
+**Previous version:** `Course.Program.SVE.v0.3.md`  
 **Project:** Svenska
 
-This file identifies the current working version of the course program. The complete program content is stored in the versioned file `Course.Program.SVE.v0.3.md` at the repository root.
+This file identifies the current working version of the course program.
 
 ## Rule
 
