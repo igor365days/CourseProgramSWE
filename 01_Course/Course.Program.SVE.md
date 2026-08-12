@@ -1,8 +1,11 @@
 # Course.Program.SVE
 
-**Version:** 0.3  
-**Status:** Working Draft  
-**Source:** `Course.Program.SVE.v0.3.md`  
+**Current version:** 0.3  
+**Canonical content:** `Course.Program.SVE.v0.3.md`  
 **Project:** Svenska
 
-This is the current working copy of the Svenska course program. The versioned source is preserved in the repository root/archive history.
+This file identifies the current working version of the course program. The complete program content is stored in the versioned file `Course.Program.SVE.v0.3.md` at the repository root.
+
+## Rule
+
+ChatGPT must read the canonical versioned file before planning or conducting lessons. This pointer file changes only when a new program version is approved.
